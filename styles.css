@@ -22,7 +22,7 @@ body{
     display: flex;
     align-items: center;
     gap: .4em;
-    margin: .5em 0;
+    margin: 1em 0;
 }
 .checkbox-container input[type="checkbox"]{
     accent-color: #951a1a;
